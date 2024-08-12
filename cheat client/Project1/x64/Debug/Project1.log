@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\笔试作弊\cheat client\project1\thread_pool.h(140): warning C4244: “初始化”: 从“uint64_t”转换到“const uint32_t”，可能丢失数据
+  Project1.vcxproj -> D:\笔试作弊\cheat client\x64\Debug\Project1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
